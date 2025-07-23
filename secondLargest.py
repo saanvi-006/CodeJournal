@@ -1,5 +1,5 @@
 def getSecondLargest(arr):
-        # Code Here
+
         if len(arr)<2:
             return -1
         new_arr=list(set(arr))
